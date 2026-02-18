@@ -40,4 +40,8 @@ dictionary = {
     'cauda':'calda'
 }
 
-non_ingredients = ["panela","fogo","forno","tigela","minutos","segundos","tampa","frigideira","assadeira","forma","quilogramas","quilograma","cubos","cuidado","espátula","faca","fogão","escumadeira","xícara","colher", "pitada", "fio", "punhado", "grama","mililitro","onça","banho-maria","geladeira","freezer","ponto","mistura","massa","calda","marinada","recheio","cobertura","fundo", "molho"]
+non_ingredients = ["panela","frigideira","faca","garfo","colher","prato","copo","xícara","liquidificador","batedeira","micro-ondas","fogão","forno","geladeira","espátula","concha","escumadeira","batedor de arame","tábua de corte","escorredor","peneira","ralador","abridor de latas","saca-rolhas","assadeira","forma de bolo","tigela","pote","jarra","taça","pires","travessa","rolo de massa","mixer","torradeira","cafeteira","airfryer","coifa","pia","torneira","bancada","armário","lixeira","esponja","detergente","pano de prato","avental","luva térmica","descascador","amassador de alho","cuidado","cubos","molho","fogo"]
+
+non_culinary_verbs = ["fazer","ficar","ser","estar","bora","colher","queimar"]
+
+measurings = ["minuto","minutos","segundos","xícara","xícaras","colher","colheres","pitada","pitadas","fio","punhado","punhados","grama","gramas","mililitro","mililitros","onça","onças","quilograma", "quilogramas"]
