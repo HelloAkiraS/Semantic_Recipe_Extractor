@@ -2,7 +2,7 @@
 
 > A semantic information extractor for Brazilian Portuguese recipes using Natural Language Processing (NLP) and Python.
 
-![Python](https://img.shields.io/badge/Python-3.12%2B-blue?style=flat&logo=python)
+![Python](https://img.shields.io/badge/Python-3.12-blue?style=flat&logo=python)
 ![spaCy](https://img.shields.io/badge/NLP-spaCy-green?style=flat&logo=spacy)
 ![Status](https://img.shields.io/badge/Status-MVP%20Completed-success)
 
@@ -31,14 +31,16 @@ This project was built using a **Rule-Based Architecture**, focusing on determin
 
 ## 📦 Installation & Setup
 
+*Note: consider using a Python Virtual Environment (venv).*
+
 1.  **Clone the repository:**
 
-    git clone [https://github.com/your-username/semantic-recipe-extractor.git](https://github.com/your-username/semantic-recipe-extractor.git)
-    cd semantic-recipe-extractor
+    git clone [https://github.com/HelloAkiraS/Semantic_Recipe_Extractor.git](https://github.com/HelloAkiraS/Semantic_Recipe_Extractor.git)
+    cd Cemantic_Recipe_Extractor
 
 2.  **Install dependencies:**
 
-    pip install spacy unidecode
+    python -m pip install -r requirements.txt
 
 3.  **Download the Portuguese language model:**
 
@@ -95,7 +97,9 @@ This project is currently an MVP (Minimum Viable Product). Future improvements i
 
 ## 👨‍💻 Author
 
-Developed by **Enzo** - Systems for Internet Student at **Fatec Rubens Lara**.
+**HelloAkiraS**
+
+Internet's Systems Student at **Fatec Rubens Lara**.
 
 ---
 *Project developed for educational purposes in Natural Language Processing and Software Engineering.*
