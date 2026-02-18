@@ -36,13 +36,14 @@ This project was built using a **Rule-Based Architecture**, focusing on determin
 1.  **Clone the repository:**
 
     git clone [https://github.com/HelloAkiraS/Semantic_Recipe_Extractor.git](https://github.com/HelloAkiraS/Semantic_Recipe_Extractor.git)
+
     cd Cemantic_Recipe_Extractor
 
-2.  **Install dependencies:**
+3.  **Install dependencies:**
 
     python -m pip install -r requirements.txt
 
-3.  **Download the Portuguese language model:**
+4.  **Download the Portuguese language model:**
 
     python -m spacy download pt_core_news_md
 
